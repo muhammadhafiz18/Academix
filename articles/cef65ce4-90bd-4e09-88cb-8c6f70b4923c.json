@@ -1,0 +1,8 @@
+{
+  "Id": "cef65ce4-90bd-4e09-88cb-8c6f70b4923c",
+  "Title": "The first article in Academix",
+  "Author": "Muhammad Khodjaev",
+  "Content": "This is my third ever pet project after Muazzin and Habit tracker built based on Telegram but. Unlike them, this project now works with Github pages, Azure Function, and Supabase. Built with React/Typescript, .NET 8.0.",
+  "PublishedAt": "2025-09-09T19:20:09.791676Z",
+  "Slug": "the-first-article-in-academix"
+}
