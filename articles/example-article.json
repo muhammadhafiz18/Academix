@@ -1,8 +1,0 @@
-{
-  "id": "example-123",
-  "title": "Welcome to EduPress: A Platform for Student Publications",
-  "author": "Demo Author",
-  "content": "# Welcome to EduPress\n\nEduPress is a modern platform designed for university students to publish and share their academic articles, research findings, and scholarly thoughts.\n\n## Features\n\n- **Easy Publishing**: Simple, intuitive interface for writing and publishing articles\n- **Secure Authentication**: Powered by Supabase for reliable user management\n- **Automatic Deployment**: Articles are automatically published when saved\n- **Modern Tech Stack**: Built with React, TypeScript, and Azure Functions\n\n## Getting Started\n\n1. Sign up for an account using your university email\n2. Write your article using our publishing form\n3. Click publish and share your knowledge with the academic community\n\n## Why EduPress?\n\nIn today's digital age, students need a platform to share their academic work and engage with peers. EduPress provides that platform with modern technology and a focus on simplicity.\n\n*Happy publishing!*",
-  "publishedAt": "2024-01-15T10:00:00.000Z",
-  "slug": "welcome-to-edupress"
-}
