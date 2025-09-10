@@ -1,0 +1,12 @@
+{
+  "Id": "b233fb15-0e49-4066-8dda-3010980c0499",
+  "Title": "TEST ARTICLE WITH MARKDOWN SUPPORT",
+  "Author": "Muhammad  Khodjaev",
+  "Content": "**This is the test with markdown support article**\r\n\r\n`dotnet run` command runs the .NET project.\r\n\r\n```\r\nConsole.WriteLine(\"hello world\");\r\n``` \r\nWith this method we can write something in the terminal.",
+  "ContentType": "markdown",
+  "Images": [
+    "images/b233fb15-0e49-4066-8dda-3010980c0499_0_BarakaTopLogo-512x512.png"
+  ],
+  "PublishedAt": "2025-09-10T14:38:35.245023Z",
+  "Slug": "test-article-with-markdown-support"
+}
