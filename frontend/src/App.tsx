@@ -11,7 +11,7 @@ function App() {
   return (
     <AuthProvider>
       <ThemeProvider>
-        <Router>
+        <Router basename="/Academix">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/publish" element={<Publish />} />
